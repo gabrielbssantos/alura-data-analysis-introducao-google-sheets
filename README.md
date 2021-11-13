@@ -26,7 +26,7 @@ Durante o custo foram tratados os seguintes conceitos:
 
 Inicialmente será analisada a base de livros a serem vendidos no e-commerce da Marcela.
 
-[Print dos dados iniciais no Google Sheet] (https://github.com/gabrielbssantos/alura-data-analysis-introducao-google-sheets/blob/main/gsheets-data-print.png?raw=true)
+[Print dos dados iniciais no Google Sheet] (https://github.com/gabrielbssantos/alura-data-analysis-introducao-google-sheets/blob/main/gsheets-data-print.png)
 
 *Base de dados bem simples contendo a lista de livros, a quantidade em estoque, o custo e por fim, o valor de vendas, aplicando uma margem de 40%*
 
