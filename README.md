@@ -32,6 +32,16 @@ Inicialmente será analisada a base de livros a serem vendidos no e-commerce da 
 
 
 
+## Parte 2 - Tipos de Gráfico e Análise de Tendência
+
+Após 3 meses de operação podemos analisar o histórico de vendas por semana e tirar alguns insights.
+
+![Print do gráfico de tendência, velocidade e aceleração por semana](https://github.com/gabrielbssantos/alura-data-analysis-introducao-google-sheets/blob/main/charts-trendline.png)
+
+*Apesar de entre as semana a velecidade e aceração das vendas variar bastante, o que pode gerar sensação de uma performance ruim, analisando a linha de tendência podemos ver que se o mesmo cenário for mantido a linha venda permencerá crescendo.*
+
+
+
 
 
 
